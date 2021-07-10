@@ -6,7 +6,7 @@
   <link href="http://xyming108.github.io/atom.xml" rel="self"/>
   
   <link href="http://xyming108.github.io/"/>
-  <updated>2021-03-22T03:00:15.583Z</updated>
+  <updated>2021-07-10T11:32:47.846Z</updated>
   <id>http://xyming108.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>股票基础知识</title>
+    <link href="http://xyming108.github.io/2021/07/10/%E8%82%A1%E7%A5%A8%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
+    <id>http://xyming108.github.io/2021/07/10/%E8%82%A1%E7%A5%A8%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</id>
+    <published>2021-07-10T11:27:48.000Z</published>
+    <updated>2021-07-10T11:32:47.846Z</updated>
+    
+    
+    <summary type="html">投资股票有风险，了解股票基础知识至关重要</summary>
+    
+    
+    
+    <category term="理财" scheme="http://xyming108.github.io/categories/%E7%90%86%E8%B4%A2/"/>
+    
+    
+    <category term="理财" scheme="http://xyming108.github.io/tags/%E7%90%86%E8%B4%A2/"/>
+    
+    <category term="股票" scheme="http://xyming108.github.io/tags/%E8%82%A1%E7%A5%A8/"/>
+    
+  </entry>
   
   <entry>
     <title>java面试笔记</title>
